@@ -3,6 +3,6 @@
         "port": 8082,
         "version": "1.0.8",
         "update": true,
-        "link": "https://raw.githubusercontent.com/botsbrogarai-porra/a/blob/master/config.json"
+        "link": "https://raw.githubusercontent.com/botsbrogarai-porra/a/master/config.json"
     }
 }
